@@ -52,6 +52,8 @@ Key Performance Indicators (KPIs)
 - Number of Departments: 6
 - Most Common Job Title: Developer
 <img width="1274" height="536" alt="My Dashboard" src="https://github.com/user-attachments/assets/21391ce9-d430-4105-a1c2-e834888c24f2" />
+
+Link to my Excel dashboard : https://1drv.ms/x/c/719b373f3765f6d2/ES3d62C7V_VJvHFxLzX19kwBvJr5tlYvdeA0g9iuJH0Qcw?e=Mk2rGg
 ________________________________________
 
 
